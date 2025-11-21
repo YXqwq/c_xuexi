@@ -1,0 +1,4 @@
+﻿  test.c
+D:\vs\项目\2025\11.21 3\11.21 3\test.c(55,8): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\vs\项目\2025\11.21 3\11.21 3\test.c(80,36): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+  11.21 3.vcxproj -> D:\vs\项目\2025\11.21 3\x64\Debug\11.21 3.exe
