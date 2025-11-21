@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs\\\u9879\u76EE\\2025\\10.19 zuoye2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B63160E-1434-46A8-A425-B396DC8DC373}|10.19 zuoye2\\10.19 zuoye2.vcxproj|D:\\vs\\\u9879\u76EE\\2025\\10.19 zuoye2\\10.19 zuoye2\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B63160E-1434-46A8-A425-B396DC8DC373}|10.19 zuoye2\\10.19 zuoye2.vcxproj|solutionrelative:10.19 zuoye2\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\vs\\\u9879\u76EE\\2025\\10.19 zuoye2\\10.19 zuoye2\\test.cpp",
+              "RelativeDocumentMoniker": "10.19 zuoye2\\test.cpp",
+              "ToolTip": "D:\\vs\\\u9879\u76EE\\2025\\10.19 zuoye2\\10.19 zuoye2\\test.cpp*",
+              "RelativeToolTip": "10.19 zuoye2\\test.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-19T06:42:57.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
