@@ -1,0 +1,5 @@
+﻿  test.c
+  tongxunlu.c
+D:\vs\项目\game\12.2 1\12.2 1\tongxunlu.c(152,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  正在生成代码...
+  12.2 1.vcxproj -> D:\vs\项目\game\12.2 1\x64\Debug\12.2 1.exe
