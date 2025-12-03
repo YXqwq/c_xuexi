@@ -6,8 +6,8 @@ void caidan()//菜单
 {
 	printf("*************************************\n");
 	printf("*******1.增加   2.删除  3.查找*******\n");
-	printf("*******4.更改   5.排序  6.显示*******\n");
-	printf("*******         0.退出        *******\n");
+	printf("*******4.更改   5.交换  6.显示*******\n");
+	printf("*******     7.排序   0.退出   *******\n");
 	printf("*************************************\n");
 }
 
@@ -25,7 +25,7 @@ int main()
 	//初始化通讯录
 	chushihua(&txl);
 	//小彩蛋
-	caidan_qwq(&txl);
+	//caidan_qwq(&txl);
 	do
 	{
 		caidan();//打印菜单 
@@ -46,12 +46,18 @@ int main()
 		case 4://更改联系人
 			genggai(&txl);
 			break;
-		case 5://排序联系人
-			paixu(&txl);
+		case 5://交换联系人
+			jiaohuan_ren(&txl);
 			break;
 		case 6://显示通讯录
 			xianshi(&txl);
 			break;
+		case 7://排序联系人
+			paixu(&txl);
+			break;
+		case 0:
+			xiaohui(&txl);//销毁通讯录
+			printf("退出通讯录\n");
 		default:
 			printf("请输入正确的数字！\n");
 			goto TP1;

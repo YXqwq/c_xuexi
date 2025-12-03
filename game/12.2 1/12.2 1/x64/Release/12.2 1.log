@@ -1,0 +1,8 @@
+﻿  test.c
+  tongxunlu.c
+D:\vs\项目\game\12.2 1\12.2 1\tongxunlu.c(152,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 18 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+D:\vs\项目\game\12.2 1\12.2 1\tongxunlu.c(231): error C4789: 函数“main”中的缓冲区“txl”(大小为 7276 字节)将溢出；从偏移 11 时开始，将会写入 7272 字节
+LINK : fatal error LNK1257: 代码生成失败

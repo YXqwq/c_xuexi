@@ -1,5 +1,15 @@
 ﻿  test.c
   tongxunlu.c
-D:\vs\项目\game\12.2 1\12.2 1\tongxunlu.c(152,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
   正在生成代码...
+D:\vs\项目\game\12.2 1\12.2 1\tongxunlu.c(246,11): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+D:\vs\项目\game\12.2 1\12.2 1\tongxunlu.c(369,47): warning C4090: “函数”: 不同的“const”限定符
+D:\vs\项目\game\12.2 1\12.2 1\tongxunlu.c(369,47): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+D:\vs\项目\game\12.2 1\12.2 1\tongxunlu.c(373,47): warning C4090: “函数”: 不同的“const”限定符
+D:\vs\项目\game\12.2 1\12.2 1\tongxunlu.c(373,47): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+D:\vs\项目\game\12.2 1\12.2 1\tongxunlu.c(377,47): warning C4090: “函数”: 不同的“const”限定符
+D:\vs\项目\game\12.2 1\12.2 1\tongxunlu.c(377,47): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+D:\vs\项目\game\12.2 1\12.2 1\tongxunlu.c(381,47): warning C4090: “函数”: 不同的“const”限定符
+D:\vs\项目\game\12.2 1\12.2 1\tongxunlu.c(381,47): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+D:\vs\项目\game\12.2 1\12.2 1\tongxunlu.c(385,47): warning C4090: “函数”: 不同的“const”限定符
+D:\vs\项目\game\12.2 1\12.2 1\tongxunlu.c(385,47): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
   12.2 1.vcxproj -> D:\vs\项目\game\12.2 1\x64\Debug\12.2 1.exe
