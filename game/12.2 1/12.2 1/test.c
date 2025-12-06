@@ -56,8 +56,11 @@ int main()
 			paixu(&txl);
 			break;
 		case 0:
+			baochun(&txl);//保存文件
 			xiaohui(&txl);//销毁通讯录
+			
 			printf("退出通讯录\n");
+			break;
 		default:
 			printf("请输入正确的数字！\n");
 			goto TP1;

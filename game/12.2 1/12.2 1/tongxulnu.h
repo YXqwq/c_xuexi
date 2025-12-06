@@ -47,4 +47,8 @@ void jiaohuan_ren(tongxunlu_cot* ps);
 //排序联系人
 void paixu(tongxunlu_cot* ps);
 //彩蛋
-void caidan_qwq(tongxunlu_cot* ps);
+//void caidan_qwq(tongxunlu_cot* ps);
+//保存通讯录
+void baochun(tongxunlu_cot* ps);
+//加载文件的信息到通讯录
+void jiazai(tongxunlu_cot* ps);

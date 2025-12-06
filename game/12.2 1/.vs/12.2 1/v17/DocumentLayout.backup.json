@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\vs\\\u9879\u76EE\\game\\12.2 1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{37918E0F-E09E-447E-AF33-60C44EA7C4C7}|12.2 1\\12.2 1.vcxproj|D:\\vs\\\u9879\u76EE\\game\\12.2 1\\12.2 1\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37918E0F-E09E-447E-AF33-60C44EA7C4C7}|12.2 1\\12.2 1.vcxproj|solutionrelative:12.2 1\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{37918E0F-E09E-447E-AF33-60C44EA7C4C7}|12.2 1\\12.2 1.vcxproj|D:\\vs\\\u9879\u76EE\\game\\12.2 1\\12.2 1\\tongxulnu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{37918E0F-E09E-447E-AF33-60C44EA7C4C7}|12.2 1\\12.2 1.vcxproj|solutionrelative:12.2 1\\tongxulnu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37918E0F-E09E-447E-AF33-60C44EA7C4C7}|12.2 1\\12.2 1.vcxproj|D:\\vs\\\u9879\u76EE\\game\\12.2 1\\12.2 1\\tongxunlu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{37918E0F-E09E-447E-AF33-60C44EA7C4C7}|12.2 1\\12.2 1.vcxproj|solutionrelative:12.2 1\\tongxunlu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37918E0F-E09E-447E-AF33-60C44EA7C4C7}|12.2 1\\12.2 1.vcxproj|D:\\vs\\\u9879\u76EE\\game\\12.2 1\\12.2 1\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{37918E0F-E09E-447E-AF33-60C44EA7C4C7}|12.2 1\\12.2 1.vcxproj|solutionrelative:12.2 1\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "tongxulnu.h",
               "DocumentMoniker": "D:\\vs\\\u9879\u76EE\\game\\12.2 1\\12.2 1\\tongxulnu.h",
               "RelativeDocumentMoniker": "12.2 1\\tongxulnu.h",
               "ToolTip": "D:\\vs\\\u9879\u76EE\\game\\12.2 1\\12.2 1\\tongxulnu.h",
               "RelativeToolTip": "12.2 1\\tongxulnu.h",
-              "ViewState": "AgIAABMAAAAAAAAAAAAUwCQAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-12-02T12:44:34.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "tongxunlu.c",
               "DocumentMoniker": "D:\\vs\\\u9879\u76EE\\game\\12.2 1\\12.2 1\\tongxunlu.c",
               "RelativeDocumentMoniker": "12.2 1\\tongxunlu.c",
               "ToolTip": "D:\\vs\\\u9879\u76EE\\game\\12.2 1\\12.2 1\\tongxunlu.c",
               "RelativeToolTip": "12.2 1\\tongxunlu.c",
-              "ViewState": "AgIAAG4BAAAAAAAAAAAUwIMBAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAALEBAAAAAAAAAADwv8ABAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-02T12:44:03.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T12:44:03.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "test.c",
               "DocumentMoniker": "D:\\vs\\\u9879\u76EE\\game\\12.2 1\\12.2 1\\test.c",
               "RelativeDocumentMoniker": "12.2 1\\test.c",
               "ToolTip": "D:\\vs\\\u9879\u76EE\\game\\12.2 1\\12.2 1\\test.c",
               "RelativeToolTip": "12.2 1\\test.c",
-              "ViewState": "AgIAACoAAAAAAAAAAAAUwDoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAADwv0cAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-02T12:43:44.129Z",
               "EditorCaption": ""

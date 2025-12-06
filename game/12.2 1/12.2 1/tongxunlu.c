@@ -22,6 +22,35 @@ void zengrong(tongxunlu_cot* ps)//增容
 	}
 }
 
+//加载
+void jiazai(tongxunlu_cot* ps)
+{
+	assert(ps);
+	FILE* pfR = fopen("txl.txt", "rb");
+	if (pfR == NULL)
+	{
+		perror("jiazai");
+		return 1;
+	}
+	tongxunlu tmp = { 0 };
+
+	while (fread(&tmp, sizeof(tongxunlu), 1, pfR) == 1)
+	{
+		zengrong(ps);
+		ps->dime[ps->cot] = tmp;
+		ps->cot++;
+	}
+
+
+	//关闭文件
+	fclose(pfR);
+	pfR = NULL;
+}
+
+
+
+
+
 void xiaohui(tongxunlu_cot* ps)//销毁通讯录
 {
 	assert(ps);
@@ -56,8 +85,14 @@ int chushihua(tongxunlu_cot* pss)//初始化通讯录
 		return 1;
 	}
 	pss->rongliang = MOREN_SZ;
+	//加载文件的信息到通讯录中
+	jiazai(pss);
 	return 0;
 }
+
+
+
+
 
 
 //静态版本
@@ -394,4 +429,31 @@ void paixu(tongxunlu_cot* ps)//排序联系人
 	
 
 	printf("排序成功\n");
+}
+
+
+
+void baochun(tongxunlu_cot* ps)
+{
+	assert(ps);
+
+	FILE* pfW = fopen("txl.txt", "wb");
+	if (pfW == NULL)
+	{
+		perror("baochun");
+		return 1;
+	}
+	//写文件(二进制)
+	int i = 0;
+	for ( i = 0; i < ps->cot; i++)
+	{
+		fwrite(ps->dime+i, sizeof(tongxunlu),1, pfW);
+	}
+	 
+
+	//关闭文件
+	fclose(pfW);
+	pfW = NULL;
+
+
 }
