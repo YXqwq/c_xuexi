@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs\\\u9879\u76EE\\game\\12.6 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D612E862-3277-43AE-85E0-A3F671956152}|12.6 3\\12.6 3.vcxproj|D:\\vs\\\u9879\u76EE\\game\\12.6 3\\12.6 3\\jiami.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D612E862-3277-43AE-85E0-A3F671956152}|12.6 3\\12.6 3.vcxproj|solutionrelative:12.6 3\\jiami.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612E862-3277-43AE-85E0-A3F671956152}|12.6 3\\12.6 3.vcxproj|D:\\vs\\\u9879\u76EE\\game\\12.6 3\\12.6 3\\jiami.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D612E862-3277-43AE-85E0-A3F671956152}|12.6 3\\12.6 3.vcxproj|solutionrelative:12.6 3\\jiami.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D612E862-3277-43AE-85E0-A3F671956152}|12.6 3\\12.6 3.vcxproj|D:\\vs\\\u9879\u76EE\\game\\12.6 3\\12.6 3\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D612E862-3277-43AE-85E0-A3F671956152}|12.6 3\\12.6 3.vcxproj|solutionrelative:12.6 3\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "jiami.h",
+              "DocumentMoniker": "D:\\vs\\\u9879\u76EE\\game\\12.6 3\\12.6 3\\jiami.h",
+              "RelativeDocumentMoniker": "12.6 3\\jiami.h",
+              "ToolTip": "D:\\vs\\\u9879\u76EE\\game\\12.6 3\\12.6 3\\jiami.h",
+              "RelativeToolTip": "12.6 3\\jiami.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-06T12:29:06.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\vs\\\u9879\u76EE\\game\\12.6 3\\12.6 3\\test.c",
+              "RelativeDocumentMoniker": "12.6 3\\test.c",
+              "ToolTip": "D:\\vs\\\u9879\u76EE\\game\\12.6 3\\12.6 3\\test.c",
+              "RelativeToolTip": "12.6 3\\test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-06T12:26:33.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jiami.c",
+              "DocumentMoniker": "D:\\vs\\\u9879\u76EE\\game\\12.6 3\\12.6 3\\jiami.c",
+              "RelativeDocumentMoniker": "12.6 3\\jiami.c",
+              "ToolTip": "D:\\vs\\\u9879\u76EE\\game\\12.6 3\\12.6 3\\jiami.c",
+              "RelativeToolTip": "12.6 3\\jiami.c",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvx0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-06T12:28:51.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
