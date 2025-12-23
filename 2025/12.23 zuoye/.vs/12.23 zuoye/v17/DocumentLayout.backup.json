@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs\\C\\\u9879\u76EE\\2025\\12.23 zuoye\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D387E6-50DC-4645-8FBC-5FDE0F67E8DD}|12.23 zuoye\\12.23 zuoye.vcxproj|D:\\vs\\C\\\u9879\u76EE\\2025\\12.23 zuoye\\12.23 zuoye\\zuoye1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6D387E6-50DC-4645-8FBC-5FDE0F67E8DD}|12.23 zuoye\\12.23 zuoye.vcxproj|solutionrelative:12.23 zuoye\\zuoye1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zuoye1.c",
+              "DocumentMoniker": "D:\\vs\\C\\\u9879\u76EE\\2025\\12.23 zuoye\\12.23 zuoye\\zuoye1.c",
+              "RelativeDocumentMoniker": "12.23 zuoye\\zuoye1.c",
+              "ToolTip": "D:\\vs\\C\\\u9879\u76EE\\2025\\12.23 zuoye\\12.23 zuoye\\zuoye1.c",
+              "RelativeToolTip": "12.23 zuoye\\zuoye1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-23T10:26:01.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
